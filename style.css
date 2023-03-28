@@ -64,6 +64,9 @@ color: #fff;
 	margin-bottom: -44px;
 }
 
+img#fortunecookie{
+	cursor: pointer;
+}
 footer {
   color: #F9F5EB;
   background-color: #002B5B;
